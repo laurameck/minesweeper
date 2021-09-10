@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["over_react|lib/over_react.dart","over_react|lib/components.dart"],"parts":["over_react|lib/src/component/abstract_transition_props.over_react.g.dart"],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

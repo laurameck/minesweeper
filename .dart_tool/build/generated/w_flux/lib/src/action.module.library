@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["w_common|lib/disposable.dart","w_flux|lib/src/constants.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

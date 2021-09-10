@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["js|lib/js.dart","react|lib/react_client/js_backed_map.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["js_util"],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["stream_transform|lib/src/switch.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":[],"parts":[],"conditionalDeps":[{"$default":"package_resolver|lib/package_resolver.dart","dart.library.js":"sass|lib/src/sync_package_resolver/node.dart"}],"sdkDeps":[],"hasMain":false}

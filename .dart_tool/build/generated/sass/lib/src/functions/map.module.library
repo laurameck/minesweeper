@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["collection|lib/collection.dart","sass|lib/src/callable.dart","sass|lib/src/exception.dart","sass|lib/src/module/built_in.dart","sass|lib/src/value.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["collection"],"hasMain":false}

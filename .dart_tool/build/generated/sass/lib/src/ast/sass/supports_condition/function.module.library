@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["source_span|lib/source_span.dart","sass|lib/src/ast/sass/interpolation.dart","sass|lib/src/ast/sass/supports_condition.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

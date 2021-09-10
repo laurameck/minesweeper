@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["over_react|lib/over_react.dart","over_react|lib/src/component_declaration/annotations.dart"],"parts":["over_react|lib/src/component/aria_mixin.over_react.g.dart"],"conditionalDeps":[],"sdkDeps":["collection"],"hasMain":false}

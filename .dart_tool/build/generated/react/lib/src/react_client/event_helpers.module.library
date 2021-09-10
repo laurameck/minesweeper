@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["js|lib/js_util.dart","react|lib/react_client/js_interop_helpers.dart","react|lib/src/react_client/synthetic_data_transfer.dart","react|lib/src/react_client/synthetic_event_wrappers.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["html"],"hasMain":false}

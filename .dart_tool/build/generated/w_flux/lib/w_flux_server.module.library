@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["w_flux|lib/src/action.dart","w_flux|lib/src/component_server.dart","w_flux|lib/src/store.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

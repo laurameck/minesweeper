@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["over_react|lib/over_react.dart","minesweeper_dart|web/game.dart"],"parts":["minesweeper_dart|web/game_settings.over_react.g.dart"],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

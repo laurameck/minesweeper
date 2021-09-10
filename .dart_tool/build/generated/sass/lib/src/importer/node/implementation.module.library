@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["js|lib/js.dart","path|lib/path.dart","tuple|lib/tuple.dart","sass|lib/src/io.dart","sass|lib/src/node/function.dart","sass|lib/src/node/importer_result.dart","sass|lib/src/node/utils.dart","sass|lib/src/importer/utils.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

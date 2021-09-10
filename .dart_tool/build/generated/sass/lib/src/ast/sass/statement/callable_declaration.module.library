@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["source_span|lib/source_span.dart","sass|lib/src/ast/sass/argument_declaration.dart","sass|lib/src/ast/sass/statement.dart","sass|lib/src/ast/sass/statement/parent.dart","sass|lib/src/ast/sass/statement/silent_comment.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

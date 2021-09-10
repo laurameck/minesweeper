@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["over_react|lib/over_react.dart","minesweeper_dart|web/cell.dart","minesweeper_dart|web/game.dart","minesweeper_dart|web/game_settings.dart"],"parts":["minesweeper_dart|web/board.over_react.g.dart"],"conditionalDeps":[],"sdkDeps":["math"],"hasMain":false}

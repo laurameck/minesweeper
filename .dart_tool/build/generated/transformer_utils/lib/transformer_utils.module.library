@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["transformer_utils|lib/src/analyzer_helpers.dart","transformer_utils|lib/src/barback_utils.dart","transformer_utils|lib/src/node_with_meta.dart","transformer_utils|lib/src/text_util.dart","transformer_utils|lib/src/transformed_source_file.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["meta|lib/meta.dart","sass|lib/src/importer.dart","sass|lib/src/sync_package_resolver.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

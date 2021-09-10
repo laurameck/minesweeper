@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["over_react|lib/over_react.dart"],"parts":["over_react|lib/src/util/safe_render_manager/safe_render_manager_helper.over_react.g.dart"],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["stream_transform|lib/src/aggregate_sample.dart","stream_transform|lib/src/from_handlers.dart","stream_transform|lib/src/rate_limit.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["sass|lib/src/importer/async.dart","sass|lib/src/importer/no_op.dart","sass|lib/src/importer/result.dart","sass|lib/src/importer/filesystem.dart","sass|lib/src/importer/package.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

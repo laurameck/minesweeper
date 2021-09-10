@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["source_span|lib/source_span.dart","sass|lib/src/ast/css.dart","sass|lib/src/ast/node.dart","sass|lib/src/callable.dart","sass|lib/src/extend/extender.dart","sass|lib/src/value.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

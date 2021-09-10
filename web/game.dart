@@ -1,5 +1,3 @@
-import 'dart:html';
-
 import 'package:over_react/over_react.dart';
 import 'board.dart';
 import 'game_settings.dart';

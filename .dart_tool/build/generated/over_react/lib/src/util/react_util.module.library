@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["over_react|lib/component_base.dart","over_react|lib/over_react.dart","over_react|lib/src/component_declaration/util.dart","react|lib/react_client.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["collection"],"hasMain":false}

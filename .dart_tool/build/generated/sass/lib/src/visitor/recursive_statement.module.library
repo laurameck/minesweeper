@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["meta|lib/meta.dart","sass|lib/src/ast/sass.dart","sass|lib/src/visitor/interface/statement.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

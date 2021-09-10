@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["build|lib/build.dart","source_gen|lib/source_gen.dart","built_redux|lib/generator.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["logging|lib/logging.dart","meta|lib/meta.dart","over_react|lib/over_react.dart","over_react|lib/src/component/error_boundary.dart","over_react|lib/src/component/error_boundary_api.dart"],"parts":["over_react|lib/src/component/error_boundary_recoverable.over_react.g.dart"],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

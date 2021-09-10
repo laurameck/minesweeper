@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["meta|lib/meta.dart","pub_semver|lib/pub_semver.dart","platform_detect|lib/src/navigator.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

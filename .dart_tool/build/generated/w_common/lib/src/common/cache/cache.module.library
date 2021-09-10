@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["logging|lib/logging.dart","meta|lib/meta.dart","w_common|lib/func.dart","w_common|lib/src/common/disposable.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

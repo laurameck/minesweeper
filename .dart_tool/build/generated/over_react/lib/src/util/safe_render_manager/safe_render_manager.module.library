@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["meta|lib/meta.dart","over_react|lib/over_react.dart","over_react|lib/react_dom.dart","w_common|lib/disposable.dart","over_react|lib/src/util/safe_render_manager/safe_render_manager_helper.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","html"],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["over_react|lib/over_react.dart","over_react|lib/over_react_flux.dart","redux|lib/redux.dart"],"parts":["over_react|lib/src/over_react_redux/redux_multi_provider.over_react.g.dart"],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

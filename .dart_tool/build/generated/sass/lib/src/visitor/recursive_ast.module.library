@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["sass|lib/src/ast/sass.dart","sass|lib/src/visitor/interface/expression.dart","sass|lib/src/visitor/recursive_statement.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

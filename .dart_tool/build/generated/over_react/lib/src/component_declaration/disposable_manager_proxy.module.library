@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["meta|lib/meta.dart","react|lib/react.dart","w_common|lib/disposable.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

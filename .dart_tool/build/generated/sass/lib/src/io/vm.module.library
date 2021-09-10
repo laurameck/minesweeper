@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["async|lib/async.dart","path|lib/path.dart","source_span|lib/source_span.dart","watcher|lib/watcher.dart","sass|lib/src/exception.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","convert","io"],"hasMain":false}

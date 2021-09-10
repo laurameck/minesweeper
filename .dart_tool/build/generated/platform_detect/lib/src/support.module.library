@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["platform_detect|lib/platform_detect.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["html"],"hasMain":false}

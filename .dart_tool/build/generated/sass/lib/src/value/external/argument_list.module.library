@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["meta|lib/meta.dart","sass|lib/src/value.dart","sass|lib/src/value/external/value.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

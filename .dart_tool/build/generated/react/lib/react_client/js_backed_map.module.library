@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["js|lib/js.dart","react|lib/src/react_client/private_utils.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["collection","core","js_util"],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["meta|lib/meta.dart","w_flux|lib/src/component_common.dart","w_flux|lib/src/mixins/batched_redraws.dart","w_flux|lib/src/store.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["args|lib/args.dart","charcode|lib/charcode.dart","collection|lib/collection.dart","meta|lib/meta.dart","path|lib/path.dart","term_glyph|lib/term_glyph.dart","sass|lib/sass.dart","sass|lib/src/io.dart","sass|lib/src/util/character.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["collection"],"hasMain":false}

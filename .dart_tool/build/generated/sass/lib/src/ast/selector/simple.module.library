@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["sass|lib/src/exception.dart","sass|lib/src/logger.dart","sass|lib/src/parse/selector.dart","sass|lib/src/ast/selector.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

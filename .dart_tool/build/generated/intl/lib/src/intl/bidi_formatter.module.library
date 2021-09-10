@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["intl|lib/src/intl/bidi.dart","intl|lib/src/intl/text_direction.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["convert"],"hasMain":false}

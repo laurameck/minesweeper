@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["platform_detect|lib/platform_detect.dart","platform_detect|lib/src/decorator.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

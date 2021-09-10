@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["async|lib/async.dart","js|lib/js.dart","cli_repl|lib/cli_repl.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

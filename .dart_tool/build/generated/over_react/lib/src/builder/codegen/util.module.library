@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["analyzer|lib/dart/ast/ast.dart","logging|lib/logging.dart","meta|lib/meta.dart","over_react|lib/src/component_declaration/annotations.dart","source_span|lib/source_span.dart","over_react|lib/src/builder/parsing.dart","over_react|lib/src/builder/codegen/names.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

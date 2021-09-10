@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["source_span|lib/source_span.dart","sass|lib/src/visitor/interface/modifiable_css.dart","sass|lib/src/ast/css/at_rule.dart","sass|lib/src/ast/css/value.dart","sass|lib/src/ast/css/modifiable/node.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

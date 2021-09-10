@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["charcode|lib/charcode.dart","source_span|lib/source_span.dart","stack_trace|lib/stack_trace.dart","term_glyph|lib/term_glyph.dart","sass|lib/src/utils.dart","sass|lib/src/value.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

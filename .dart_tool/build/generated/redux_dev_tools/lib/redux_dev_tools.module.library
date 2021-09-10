@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["redux_dev_tools|lib/src/actions.dart","redux_dev_tools|lib/src/state.dart","redux_dev_tools|lib/src/store.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

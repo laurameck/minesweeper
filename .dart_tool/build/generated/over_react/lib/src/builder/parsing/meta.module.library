@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["analyzer|lib/dart/ast/ast.dart","transformer_utils|lib/transformer_utils.dart","over_react|lib/src/builder/parsing/ast_util.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["mirrors"],"hasMain":false}

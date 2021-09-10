@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":[],"parts":[],"conditionalDeps":[{"$default":"cli_repl|lib/src/repl_adapter/interface.dart","dart.library.io":"cli_repl|lib/src/repl_adapter/vm.dart","dart.library.js":"cli_repl|lib/src/repl_adapter/node.dart"}],"sdkDeps":[],"hasMain":false}

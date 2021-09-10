@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["source_span|lib/source_span.dart","sass|lib/src/exception.dart","sass|lib/src/logger.dart","sass|lib/src/parse/scss.dart","sass|lib/src/utils.dart","sass|lib/src/util/character.dart","sass|lib/src/ast/sass/argument.dart","sass|lib/src/ast/sass/node.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

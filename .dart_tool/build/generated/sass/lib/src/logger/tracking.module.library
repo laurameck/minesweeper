@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["source_span|lib/source_span.dart","stack_trace|lib/stack_trace.dart","sass|lib/src/logger.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

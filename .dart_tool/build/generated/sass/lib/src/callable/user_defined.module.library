@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["sass|lib/src/ast/sass.dart","sass|lib/src/callable.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

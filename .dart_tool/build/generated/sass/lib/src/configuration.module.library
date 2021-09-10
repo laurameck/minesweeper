@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["sass|lib/src/ast/node.dart","sass|lib/src/ast/sass.dart","sass|lib/src/configured_value.dart","sass|lib/src/util/limited_map_view.dart","sass|lib/src/util/unprefixed_map_view.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["collection"],"hasMain":false}

@@ -1,0 +1,578 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "_fe_analyzer_shared",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/_fe_analyzer_shared-14.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "analyzer",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/analyzer-0.41.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "archive",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/archive-3.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "args",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/args-1.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
+    },
+    {
+      "name": "async",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/async-2.8.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "bazel_worker",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/bazel_worker-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "boolean_selector",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/boolean_selector-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "bootstrap_sass",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/bootstrap_sass-4.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "build",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/build-1.6.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.9"
+    },
+    {
+      "name": "build_config",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/build_config-0.4.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.9"
+    },
+    {
+      "name": "build_daemon",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/build_daemon-2.1.10",
+      "packageUri": "lib/",
+      "languageVersion": "2.11"
+    },
+    {
+      "name": "build_modules",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/build_modules-3.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "build_resolvers",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/build_resolvers-1.5.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.9"
+    },
+    {
+      "name": "build_runner",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/build_runner-1.11.1+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "build_runner_core",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/build_runner_core-6.1.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.9"
+    },
+    {
+      "name": "build_web_compilers",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/build_web_compilers-2.16.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.11"
+    },
+    {
+      "name": "built_collection",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/built_collection-5.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "built_redux",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/built_redux-7.5.12",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
+    },
+    {
+      "name": "built_value",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/built_value-8.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "charcode",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/charcode-1.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "checked_yaml",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/checked_yaml-1.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "cli_repl",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/cli_repl-0.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "cli_util",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/cli_util-0.3.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "clock",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/clock-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "code_builder",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/code_builder-3.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/collection-1.15.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "colorize",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/colorize-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "convert",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/convert-3.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "coverage",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/coverage-0.15.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "crypto",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/crypto-3.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "dart_style",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/dart_style-1.3.12",
+      "packageUri": "lib/",
+      "languageVersion": "2.9"
+    },
+    {
+      "name": "file",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/file-5.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "fixnum",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/fixnum-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "glob",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/glob-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "graphs",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/graphs-0.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/http-0.12.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
+    },
+    {
+      "name": "http_multi_server",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/http_multi_server-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/http_parser-3.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
+    },
+    {
+      "name": "intl",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/intl-0.17.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "io",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/io-0.3.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/js-0.6.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "json_annotation",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/json_annotation-4.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "logging",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/logging-0.11.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "matcher",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.10",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "memoize",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/memoize-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/meta-1.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "mime",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/mime-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "node_interop",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/node_interop-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.9"
+    },
+    {
+      "name": "node_io",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/node_io-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "node_preamble",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/node_preamble-1.4.13",
+      "packageUri": "lib/",
+      "languageVersion": "1.24"
+    },
+    {
+      "name": "over_react",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/over_react-4.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "package_config",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/package_config-1.9.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "package_resolver",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/package_resolver-1.0.10",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/path-1.8.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "pedantic",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/pedantic-1.11.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "platform_detect",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/platform_detect-1.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
+    },
+    {
+      "name": "pool",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/pool-1.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "protobuf",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/protobuf-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "pub_semver",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/pub_semver-1.4.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "pubspec_parse",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/pubspec_parse-0.1.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "quiver",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/quiver-2.1.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "react",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/react-6.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "redux",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/redux-4.0.0+3",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "redux_dev_tools",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/redux_dev_tools-0.5.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "sass",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/sass-1.32.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.6"
+    },
+    {
+      "name": "sass_builder",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/sass_builder-2.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "scratch_space",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/scratch_space-0.0.4+3",
+      "packageUri": "lib/",
+      "languageVersion": "2.9"
+    },
+    {
+      "name": "shelf",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/shelf-0.7.9",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "shelf_packages_handler",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/shelf_packages_handler-2.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.8"
+    },
+    {
+      "name": "shelf_static",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/shelf_static-0.2.9+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
+    },
+    {
+      "name": "shelf_web_socket",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/shelf_web_socket-0.2.4+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "source_gen",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/source_gen-0.9.10+3",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "source_map_stack_trace",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/source_map_stack_trace-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "source_maps",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/source_maps-0.10.10",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "source_span",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/source_span-1.8.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "stack_trace",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.10.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "stream_channel",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/stream_channel-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "stream_transform",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/stream_transform-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "string_scanner",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "term_glyph",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "test",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/test-1.16.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "test_api",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/test_api-0.2.19",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "test_core",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/test_core-0.3.15",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "timing",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/timing-0.1.1+3",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "transformer_utils",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/transformer_utils-0.2.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
+    },
+    {
+      "name": "tuple",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/tuple-1.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "typed_data",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/typed_data-1.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "vm_service",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/vm_service-6.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "w_common",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/w_common-1.20.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
+    },
+    {
+      "name": "w_flux",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/w_flux-2.10.12",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
+    },
+    {
+      "name": "watcher",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/watcher-0.9.7+15",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "web_socket_channel",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/web_socket_channel-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "webkit_inspection_protocol",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/webkit_inspection_protocol-0.7.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "yaml",
+      "rootUri": "file:///Users/laurameckley/.pub-cache/hosted/pub.dartlang.org/yaml-2.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
+    },
+    {
+      "name": "minesweeper_dart",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    }
+  ],
+  "generated": "2021-09-09T23:31:32.600277Z",
+  "generator": "pub",
+  "generatorVersion": "2.13.4"
+}

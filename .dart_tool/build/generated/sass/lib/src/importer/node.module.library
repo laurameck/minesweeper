@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":[],"parts":[],"conditionalDeps":[{"$default":"sass|lib/src/importer/node/interface.dart","dart.library.js":"sass|lib/src/importer/node/implementation.dart"}],"sdkDeps":[],"hasMain":false}

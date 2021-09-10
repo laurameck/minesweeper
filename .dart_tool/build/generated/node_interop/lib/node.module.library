@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["js|lib/js.dart","js|lib/js_util.dart","node_interop|lib/console.dart","node_interop|lib/js.dart","node_interop|lib/module.dart","node_interop|lib/process.dart","node_interop|lib/buffer.dart","node_interop|lib/timers.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

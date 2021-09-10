@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["w_common|lib/src/common/disposable_manager.dart","w_common|lib/src/common/disposable.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

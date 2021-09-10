@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["cli_repl|lib/cli_repl.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

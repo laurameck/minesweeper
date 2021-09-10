@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["w_common|lib/src/common/cache/cache.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

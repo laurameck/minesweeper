@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["w_common|lib/cache.dart","w_common|lib/disposable.dart","w_common|lib/func.dart","w_common|lib/invalidation_mixin.dart","w_common|lib/json_serializable.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

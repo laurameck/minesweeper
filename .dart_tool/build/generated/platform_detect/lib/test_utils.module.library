@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["platform_detect|lib/src/detect.dart","platform_detect|lib/src/browser.dart","platform_detect|lib/src/operating_system.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

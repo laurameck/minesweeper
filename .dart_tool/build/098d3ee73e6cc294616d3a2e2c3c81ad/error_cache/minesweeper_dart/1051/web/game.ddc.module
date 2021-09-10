@@ -1,0 +1,1 @@
+["build_web_compilers:ddc on web/game.ddc.module",["Error compiling dartdevc module:minesweeper_dart|web/game.unsound.ddc.js\n\nweb/game.dart:23:11: Error: Method not found: 'Board'.\n          Board()(),\n          ^^^^^\n","",""]]

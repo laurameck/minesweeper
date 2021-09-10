@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["meta|lib/meta.dart","tuple|lib/tuple.dart","sass|lib/src/util/number.dart","sass|lib/src/utils.dart","sass|lib/src/value.dart","sass|lib/src/value/external/value.dart","sass|lib/src/value/number.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["collection"],"hasMain":false}

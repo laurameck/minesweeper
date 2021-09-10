@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["sass|lib/src/ast/css.dart","sass|lib/src/visitor/interface/modifiable_css.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

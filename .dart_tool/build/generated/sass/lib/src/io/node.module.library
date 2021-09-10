@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["js|lib/js.dart","node_interop|lib/fs.dart","node_interop|lib/node_interop.dart","node_interop|lib/stream.dart","path|lib/path.dart","source_span|lib/source_span.dart","watcher|lib/watcher.dart","sass|lib/src/exception.dart","sass|lib/src/node/chokidar.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","convert","js_util"],"hasMain":false}

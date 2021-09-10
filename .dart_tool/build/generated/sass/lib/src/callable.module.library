@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["meta|lib/meta.dart","sass|lib/src/callable/async.dart","sass|lib/src/callable/built_in.dart","sass|lib/src/value.dart","sass|lib/src/value/external/value.dart","sass|lib/src/callable/async_built_in.dart","sass|lib/src/callable/plain_css.dart","sass|lib/src/callable/user_defined.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

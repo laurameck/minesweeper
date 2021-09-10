@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["clock|lib/src/default.dart","clock|lib/src/clock.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

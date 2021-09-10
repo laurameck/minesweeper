@@ -1,0 +1,5 @@
+Error compiling dartdevc module:minesweeper_dart|web/game.unsound.ddc.js
+
+web/game.dart:23:11: Error: Method not found: 'Board'.
+          Board()(),
+          ^^^^^

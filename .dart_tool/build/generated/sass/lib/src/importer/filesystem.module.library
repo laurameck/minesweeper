@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["meta|lib/meta.dart","path|lib/path.dart","sass|lib/src/importer.dart","sass|lib/src/io.dart","sass|lib/src/syntax.dart","sass|lib/src/importer/utils.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

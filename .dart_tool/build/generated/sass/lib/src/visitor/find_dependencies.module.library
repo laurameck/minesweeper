@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["tuple|lib/tuple.dart","sass|lib/src/ast/sass.dart","sass|lib/src/visitor/recursive_statement.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

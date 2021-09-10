@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["collection|lib/collection.dart","sass|lib/src/logger.dart","sass|lib/src/parse/at_root_query.dart","sass|lib/src/ast/css.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

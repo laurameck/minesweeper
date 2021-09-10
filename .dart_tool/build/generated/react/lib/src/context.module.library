@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["js|lib/js.dart","react|lib/react_client/react_interop.dart","react|lib/react_client/component_factory.dart","react|lib/src/react_client/private_utils.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["js_util"],"hasMain":false}

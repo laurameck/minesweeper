@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["source_span|lib/source_span.dart","charcode|lib/charcode.dart","sass|lib/src/visitor/interface/expression.dart","sass|lib/src/ast/sass/expression.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

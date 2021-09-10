@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["over_react|lib/src/builder/parsing.dart","over_react|lib/src/builder/codegen/names.dart","over_react|lib/src/builder/codegen/util.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

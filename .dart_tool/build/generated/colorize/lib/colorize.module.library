@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":[],"parts":["colorize|lib/src/styles.dart","colorize|lib/src/colorize.dart","colorize|lib/src/color.dart"],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

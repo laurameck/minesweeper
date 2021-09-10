@@ -1,4 +1,3 @@
-@import 'sass/board';
 @import 'sass/cell';
 
 .game {
@@ -6,4 +5,5 @@
 	flex-direction: row;
 	align-items: center;
 	justify-content: center;
+	flex-wrap: wrap;
 }

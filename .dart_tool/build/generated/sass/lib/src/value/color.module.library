@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["source_span|lib/source_span.dart","sass|lib/src/exception.dart","sass|lib/src/util/number.dart","sass|lib/src/value.dart","sass|lib/src/visitor/interface/value.dart","sass|lib/src/value/external/value.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["math"],"hasMain":false}

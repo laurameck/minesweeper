@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["args|lib/args.dart","coverage|lib/src/collect.dart","logging|lib/logging.dart","stack_trace|lib/stack_trace.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","convert","io"],"hasMain":true}

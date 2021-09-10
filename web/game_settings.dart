@@ -1,5 +1,3 @@
-import 'dart:html';
-
 import 'package:over_react/over_react.dart';
 
 import 'game.dart';
@@ -35,9 +33,9 @@ UiFactory<GameSettingsProps> GameSettings = uiFunction(
     final numBombs = useState(_getBombCount(level.value));
 
     useEffect(() {
-      print(level.value);
       numBombs.set(_getBombCount(level.value));
     }, [level.value]);
+    
     // This will be passed to any of `GameSettings` children
     final providerMap = {difficultyKey: level.value, bombCountKey: numBombs};
 

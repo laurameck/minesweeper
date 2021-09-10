@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["charcode|lib/charcode.dart","sass|lib/src/utils.dart","sass|lib/src/visitor/interface/selector.dart","sass|lib/src/ast/selector.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["math"],"hasMain":false}

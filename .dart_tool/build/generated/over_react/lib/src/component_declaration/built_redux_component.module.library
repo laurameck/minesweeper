@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["built_redux|lib/built_redux.dart","built_value|lib/built_value.dart","meta|lib/meta.dart","over_react|lib/over_react.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

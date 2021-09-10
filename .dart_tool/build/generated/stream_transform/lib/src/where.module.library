@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["stream_transform|lib/src/from_handlers.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

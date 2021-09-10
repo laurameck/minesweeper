@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["js|lib/js.dart","over_react|lib/src/over_react_redux/over_react_redux.dart","over_react|lib/src/over_react_redux/hooks/use_selector.dart","over_react|lib/src/util/context.dart","react|lib/react_client/react_interop.dart","redux|lib/redux.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

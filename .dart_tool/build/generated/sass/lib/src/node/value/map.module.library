@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["js|lib/js.dart","sass|lib/src/value.dart","sass|lib/src/node/utils.dart","sass|lib/src/node/value.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["js_util"],"hasMain":false}

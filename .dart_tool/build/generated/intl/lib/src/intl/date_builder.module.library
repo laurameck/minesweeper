@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["clock|lib/clock.dart","intl|lib/src/intl/date_computation.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

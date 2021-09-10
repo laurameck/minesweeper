@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["source_maps|lib/source_maps.dart","source_span|lib/source_span.dart","sass|lib/src/util/source_map_buffer.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

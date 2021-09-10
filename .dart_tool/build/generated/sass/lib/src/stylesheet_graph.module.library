@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["collection|lib/collection.dart","meta|lib/meta.dart","path|lib/path.dart","tuple|lib/tuple.dart","sass|lib/src/ast/sass.dart","sass|lib/src/import_cache.dart","sass|lib/src/importer.dart","sass|lib/src/visitor/find_dependencies.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

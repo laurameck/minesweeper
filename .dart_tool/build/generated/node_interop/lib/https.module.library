@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["js|lib/js.dart","node_interop|lib/http.dart","node_interop|lib/node.dart","node_interop|lib/tls.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["js_util"],"hasMain":false}

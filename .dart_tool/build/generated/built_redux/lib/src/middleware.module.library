@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["built_value|lib/built_value.dart","built_redux|lib/src/action.dart","built_redux|lib/src/store.dart","built_redux|lib/src/typedefs.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

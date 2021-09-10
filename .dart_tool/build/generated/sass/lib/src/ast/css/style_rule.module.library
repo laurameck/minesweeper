@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["sass|lib/src/visitor/interface/css.dart","sass|lib/src/ast/selector.dart","sass|lib/src/ast/css/node.dart","sass|lib/src/ast/css/value.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

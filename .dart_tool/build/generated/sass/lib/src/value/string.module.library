@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["charcode|lib/charcode.dart","sass|lib/src/exception.dart","sass|lib/src/util/character.dart","sass|lib/src/utils.dart","sass|lib/src/value.dart","sass|lib/src/visitor/interface/value.dart","sass|lib/src/value/external/value.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

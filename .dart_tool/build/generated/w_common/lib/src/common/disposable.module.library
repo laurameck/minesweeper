@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["logging|lib/logging.dart","meta|lib/meta.dart","w_common|lib/src/common/disposable_manager.dart","w_common|lib/src/common/disposable_state.dart","w_common|lib/src/common/managed_stream_subscription.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","collection"],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["async|lib/async.dart","cli_repl|lib/cli_repl.dart","cli_repl|lib/src/repl_adapter/codes.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","io"],"hasMain":false}

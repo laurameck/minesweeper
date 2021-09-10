@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["analyzer|lib/dart/ast/syntactic_entity.dart","logging|lib/logging.dart","source_span|lib/source_span.dart","over_react|lib/src/builder/parsing/ast_util.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

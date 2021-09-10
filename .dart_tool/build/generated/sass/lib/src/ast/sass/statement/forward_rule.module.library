@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["collection|lib/collection.dart","source_span|lib/source_span.dart","sass|lib/src/visitor/interface/statement.dart","sass|lib/src/ast/sass/configured_variable.dart","sass|lib/src/ast/sass/expression/string.dart","sass|lib/src/ast/sass/statement.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

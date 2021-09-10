@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["charcode|lib/charcode.dart","sass|lib/src/ast/sass.dart","sass|lib/src/interpolation_buffer.dart","sass|lib/src/logger.dart","sass|lib/src/util/character.dart","sass|lib/src/parse/stylesheet.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

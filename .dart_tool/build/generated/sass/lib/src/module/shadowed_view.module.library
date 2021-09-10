@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["sass|lib/src/ast/css.dart","sass|lib/src/ast/node.dart","sass|lib/src/callable.dart","sass|lib/src/exception.dart","sass|lib/src/extend/extender.dart","sass|lib/src/module.dart","sass|lib/src/util/limited_map_view.dart","sass|lib/src/utils.dart","sass|lib/src/value.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

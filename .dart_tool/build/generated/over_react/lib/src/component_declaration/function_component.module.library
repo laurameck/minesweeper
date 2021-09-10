@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["js|lib/js_util.dart","meta|lib/meta.dart","over_react|lib/over_react.dart","react|lib/react.dart","over_react|lib/src/component_declaration/component_type_checking.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

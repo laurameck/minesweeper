@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["sass|lib/src/logger.dart","sass|lib/src/parse/media_query.dart","sass|lib/src/utils.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

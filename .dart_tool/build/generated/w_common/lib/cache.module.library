@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["w_common|lib/src/common/cache/cache.dart","w_common|lib/src/common/cache/least_recently_used_strategy.dart","w_common|lib/src/common/cache/reference_counting_strategy.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

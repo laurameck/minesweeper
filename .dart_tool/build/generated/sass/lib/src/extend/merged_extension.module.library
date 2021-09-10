@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["sass|lib/src/exception.dart","sass|lib/src/utils.dart","sass|lib/src/extend/extension.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["tuple|lib/tuple.dart","sass|lib/src/ast/css.dart","sass|lib/src/ast/css/modifiable.dart","sass|lib/src/ast/selector.dart","sass|lib/src/extend/extender.dart","sass|lib/src/visitor/interface/css.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

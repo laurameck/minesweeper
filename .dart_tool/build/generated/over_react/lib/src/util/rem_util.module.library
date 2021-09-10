@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["meta|lib/meta.dart","over_react|lib/over_react.dart","over_react|lib/components.dart","over_react|lib/src/component_declaration/component_base.dart","over_react|lib/src/util/css_value_util.dart","over_react|lib/react_dom.dart","platform_detect|lib/platform_detect.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","html"],"hasMain":false}
